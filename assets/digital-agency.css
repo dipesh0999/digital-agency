@@ -881,7 +881,7 @@ input, textarea:focus{
     .footer-nav-menu{
         width: 100%;
         flex-wrap: wrap;
-        gap: 20px;
+        gap: 35px;
     }
     .ft-menu{
         width: 130px;
